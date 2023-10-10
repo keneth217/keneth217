@@ -2,7 +2,10 @@
 - 👀 I’m interested in softwre engineering
 - 🌱 I’m currently learning web and android development
 - 💞️ I’m looking to collaborate on  with android and web developers
-- 📫 How to reach me on kipyegonkeneth03@gmail.com
+- 📫 How to reach me on kipyegonkeneth03@gmail.coml
+- languages
+- VUE JS
+- NODE JS
 
 <!---
 keneth217/keneth217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
