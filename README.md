@@ -6,9 +6,9 @@
 - Interested languages.
 - VUE JS
 - NODE JS
-- springboot
-- kotlin
-- java
+- Spring & Springboot
+- Kotlin
+- Java
 
 <!---
 keneth217/keneth217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
