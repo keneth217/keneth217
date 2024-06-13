@@ -1,22 +1,22 @@
-# Hi, I'm <kipyegon keneth>! 👋
+# Hi, I'm <keneth217I>! 👋
 
-I am a passionate M.Tech CS student, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Software Student and Learner, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![<keneth217>'s Stats](https://github-readme-stats.vercel.app/api?username=<keneth217>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I currently graduated at University Of Eastern Africa,Baraton University after pursuing Degree in Software Engineering.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 📝 I write in-depth, long-form articles on my website [kenwavessolutions.vercel.app](kenwavessolutions.vercel.app), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [kenwavessolutions.vercel.app), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,Angular,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,Angular,springboot,VeJs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -29,7 +29,7 @@ I am a passionate M.Tech CS student, driven by a curiosity for technology and a 
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟  Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
