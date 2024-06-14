@@ -7,9 +7,9 @@ I am a passionate Software Student and Learner, driven by a curiosity for techno
 ## 🚀 About Me
 
 - 🎓 I graduated from the University of Eastern Africa, Baraton University with a Degree in Software Engineering.
-- 📝 I write in-depth, long-form articles on my website [Ken Waves Solutions](https://kenwavessolutions.vercel.app), accumulating over 20k views within just 2 months.
+- 📝 I write in-depth, long-form articles on my website [Ken Waves Solutions](https://kenwavesinnovations.vercel.app/blog), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [Ken Waves Solutions](https://kenwavessolutions.vercel.app), gearing up to share valuable insights with the global coding community.
+- ✍️ Content Writer at [Ken Waves Solutions](https://kenwavesinnovations.vercel.app/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
 
