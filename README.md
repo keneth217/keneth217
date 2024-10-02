@@ -23,8 +23,8 @@ I am a passionate Software Student and Learner, driven by a curiosity for techno
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Building server-side applications with Nestjs, a powerful Javascript web framework.
+  - Diving into PostgreSQL,Mysql,MongoDb for efficient and scalable database management.
 
 ## 🏆 Achievements
 
