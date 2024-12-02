@@ -15,7 +15,7 @@ I am a passionate Software Student and Learner, driven by a curiosity for techno
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,spring,java,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,spring,java,vuejs,mysql,postgresql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
