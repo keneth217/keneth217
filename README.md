@@ -8,10 +8,10 @@ I am a passionate Software Student and Learner, driven by a curiosity for techno
 
 - 🎓 I graduated from the University of Eastern Africa, Baraton University with a Degree in Software Engineering.
 - 📝 I write in-depth, long-form articles on my website [Ken Waves Solutions](https://kenwavesinnovations.vercel.app/blog), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [Ken Waves Solutions](https://kenwavesinnovations.vercel.app/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
+Articles : https://www.kipyegonkeneth.co.ke/blogs
 
 ## Tech Stack
 
@@ -31,8 +31,6 @@ I am a passionate Software Student and Learner, driven by a curiosity for techno
 - 🌟 Contributed to open source projects and celebrated the spirit of collaboration.
 
 ## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [The Enthusiast](https://theenthusiast.dev)
+- Read more of my articles on [https://www.kipyegonkeneth.co.ke/blogs])
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
