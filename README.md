@@ -20,7 +20,7 @@
 ![Keneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keneth217&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keneth217&layout=compact&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keneth217&hide_progress=true)
+
 
 </div>
 
