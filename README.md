@@ -20,7 +20,7 @@
 </div>
 
 ## 🚀 About Me
-<div align="center">
+
 
 🎓 Software Engineering graduate from University of Eastern Africa, Baraton  
 ✍️ Technical Writer with 20k+ blog views in 2 months  
@@ -31,10 +31,10 @@ I bridge the gap between complex technology and understandable content through:
 - Clean, maintainable code  
 - Open source contributions  
 
-</div>
+
 
 ## 📝 Featured Articles
-<div align="center">
+
 
 [![Read My Articles](https://img.shields.io/badge/Read_My_Articles-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://www.kipyegonkeneth.co.ke/blogs)
 
@@ -43,10 +43,10 @@ I bridge the gap between complex technology and understandable content through:
 - React Performance Optimization Techniques  
 - Database Design Patterns for Web Applications  
 
-</div>
+
 
 ## 🛠️ Tech Stack
-<div align="center">
+
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,7 +65,7 @@ I bridge the gap between complex technology and understandable content through:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
+
 
 ## 🌱 Currently Learning
 <div align="center">
@@ -75,7 +75,7 @@ I bridge the gap between complex technology and understandable content through:
 - Microservices Architecture  
 - Cloud Deployment (AWS, Vercel)  
 
-</div>
+
 
 ## 🏆 Achievements
 <div align="center">
@@ -84,13 +84,13 @@ I bridge the gap between complex technology and understandable content through:
 🌍 Contributed to open source projects  
 📚 Authored comprehensive programming guides  
 
-</div>
+
 
 ## 📬 Let's Connect
-<div align="center">
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yourprofile)
 
-</div>
+
