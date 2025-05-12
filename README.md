@@ -78,7 +78,7 @@ I bridge the gap between complex technology and understandable content through:
 
 
 ## 🏆 Achievements
-<div align="center">
+
 
 🚀 Grew technical blog to 20k+ views organically  
 🌍 Contributed to open source projects  
