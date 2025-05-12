@@ -68,7 +68,7 @@ I bridge the gap between complex technology and understandable content through:
 
 
 ## 🌱 Currently Learning
-<div align="center">
+
 
 - Advanced React (Redux, Router)  
 - Tailwind CSS for modern UIs  
